@@ -1,5 +1,5 @@
 # kasir_kantin
-Tugas matkul pemrograman .net
+Tugas matkul pemrograman framework .Net
 
 ### running program.
 1. Login Screen.
